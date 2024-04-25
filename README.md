@@ -6,7 +6,7 @@ A passionate backend developer from Paris
 
 💬 teach me abut php, laravel , symfony
 
-📫 How to reach me fatoumafofana1@gmail.com
+📫 How to reach me fatoumafofana24@gmail.com
 
 ⚡ Fun fact I think im not funny
 
