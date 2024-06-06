@@ -12,7 +12,7 @@ A passionate backend developer from Paris
 
 Connect with me:
 Languages and Tools:
-css3 express figma git html5 javascript jest laravel mongodb mysql nodejs php postgresql postman svelte symfony typescript
+HTML/CSS JAVASCRIPT /PYTHON/ PHP /POO/ SYMFONY/ NODE JS/ MYSQL POSTGRESQL/ MONGODB
 <!---
 FatoumaF/FatoumaF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
