@@ -2,9 +2,9 @@ Hi 👋, I'm Fatouma
 A passionate backend developer from Paris
 🔭 I’m currently working on PHP roombook
 
-🌱 I’m currently learning php,laravel,symfony
+🌱 I’m currently learning php,symfony
 
-💬 teach me abut php, laravel , symfony
+💬 teach me about php, front stack, symfony
 
 📫 How to reach me fatoumafofana24@gmail.com
 
